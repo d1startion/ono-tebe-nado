@@ -23,7 +23,6 @@
 }
 
 .header__links-list-item {
-  margin-right: 0;
   white-space: nowrap;
   list-style: circle;
   margin-right: 32px;
@@ -267,7 +266,6 @@
   font-size: 20px;
   text-align: left;
   overflow: viseble;
-  font-size: 20px;
 }
 
 .lots__look-more-link {
