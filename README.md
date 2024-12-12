@@ -1,1 +1,1 @@
-https://github.com/d1startion/ono-tebe-nado
+https://github.com/d1startion/ono-tebe-nado-fd
